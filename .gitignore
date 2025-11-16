@@ -2,7 +2,6 @@
 # Node.js Essentials
 # =============================================
 
-# node dependencies
 node_modules/
 
 # environment variables
@@ -25,24 +24,29 @@ yarn-error.log*
 *.seed
 *.pid.lock
 
-# coverage directory
 coverage/
-
-# dist / build folders
 dist/
 build/
-
-# temporary files
 tmp/
 temp/
 
 # =============================================
 # Uploads (optional)
-# If you want Git to ignore file uploads
 # =============================================
 uploads/
 uploads/*
 public/uploads/
+
+# =============================================
+# Cloudflare & Executables
+# =============================================
+
+# Ignore Cloudflared executables
+cloudflared.exe
+cloudflare.exe
+
+# Ignore any .exe file
+*.exe
 
 # =============================================
 # OS generated files
@@ -58,20 +62,16 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Linux
+# Linux temp
 *~
 
 # =============================================
 # IDE / Editor files
 # =============================================
 
-# VS Code
 .vscode/
-
-# JetBrains
 .idea/
 
-# Sublime
 *.sublime-workspace
 *.sublime-project
 
