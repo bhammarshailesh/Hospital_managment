@@ -1,0 +1,70 @@
+///Super Admin Registration
+
+Hospital Name
+Hospital Registration Number (optional)
+Provision Number (optional)
+Hospital Type (Clinic / Multi-Specialty / Trust Hospital / Diagnostic Center)
+Owner / Trust Name
+Address
+City
+District
+State
+Country
+Mobile Number
+Alternate Mobile Number (optional)
+Email
+Password
+Hospital Logo (optional)
+
+//Doctor Registration
+hospital_id
+Doctor Name
+Gender
+Mobile Number
+Email
+Address
+Education
+Specialization / Department
+Experience (Years)
+Medical License / Registration Number
+Consultation Fee
+Visiting Hours (Time Slot)
+Profile Photo (optional)
+Password
+
+Patient Registration / Add Patient
+
+Full Name
+Gender
+Mobile Number
+Email (optional)
+Address
+Age
+Blood Group
+Weight
+Date of Registration
+Aadhaar Number (optional)
+Medical History (Diabetes, BP, Allergies, etc.)
+Emergency Contact Number
+Patient Type (OPD / IPD / Emergency)
+Assigned Doctor
+
+
+Patient apoimet time add id and get file auto like :
+Full Name
+Gender
+Mobile Number
+Email (optional)
+Address
+Age
+Blood Group
+Aadhaar Number (optional)
+Medical History (Diabetes, BP, Allergies, etc.)
+Emergency Contact Number
+
+and reception add only during appoiment ,
+Assigned Doctor,
+current date ,Weight,
+
+
+
